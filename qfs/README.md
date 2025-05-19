@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# QFS
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+QFS, short for Quiz Frontend Service, is responsible for serving web pages to clients. It features a responsive user interface that is optimized for rendering on smaller devices, such as mobile phones.
 
 ## Available Scripts
 
