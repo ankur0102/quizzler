@@ -39,7 +39,7 @@ Make sure the following ports are free in your local machine:
 - 6379 - redis
 2. **Clone the repository**:
    ```bash
-   git clone https://github.com/<username>/<repository>.git
+   git clone <repository-url.git>
    
     ```
 3. **Go to the repository root**:
